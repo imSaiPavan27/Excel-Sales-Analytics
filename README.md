@@ -72,16 +72,29 @@ Reports generated through finance analytics play a pivotal role in steering orga
 
 
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+# Skills Acquired
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+## Technical Skills
+
+[x] **ETL Methodology (Extract, Transform, Load):** Demonstrated ability to efficiently extract, transform, and load data to ensure data quality and availability for analysis.
+
+[x]  **Power Query:** Skill in generating date tables and performing data transformations using Power Query, a vital tool for data preparation.
+
+[x] **Fiscal Months and Quarters:** Capability to derive fiscal months and quarters to align data analysis with financial reporting requirements.
+
+[x]  **Data Model Relationships (Power Pivot):** Expertise in establishing robust data model relationships using tools like Power Pivot to enable comprehensive data analysis.
+
+[x]  **Data Integration:** Proficiency in seamlessly incorporating supplementary data into an existing data model, enhancing the depth and breadth of analysis.
+
+[x]  **DAX (Data Analysis Expressions):** Proficient use of DAX to create calculated columns, enabling complex calculations and insights in data analysis.
+
+## Soft Skills
+
+[x]  **Sales & Finance Report Understanding:** A refined understanding of sales and finance reports, ensuring that data analysis aligns with the specific needs and goals of these domains.
+
+[x]  **User-Centric Report Design:** The ability to design user-centric reports with empathy in mind, ensuring that data insights are presented in a clear and actionable manner.
+
+[x]  **Optimization:** Meticulous fine-tuning skills to optimize report generation processes, enhancing efficiency and reducing resource consumption.
+
+[x]  **Systematic Approach:** Development of a systematic approach to devising a report-building plan, ensuring that data analysis efforts are organized and yield meaningful results.
+

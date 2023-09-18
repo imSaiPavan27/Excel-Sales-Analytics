@@ -16,18 +16,18 @@
    + Detecting the [Top 10 products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%2010%20Products.pdf) based on the percentage increase in their net sales from 2020 to 2021
 
 - **Purpose of Sales Analytics**
-- Evaluate financial performance
-- Support decision-making
-- Facilitate communication with stakeholders
+  - Evaluate financial performance
+  - Support decision-making
+  - Facilitate communication with stakeholders
 
 
 - **Importance of Analyzing Finance Data**
-- Aid in benchmarking against industry peers and previous periods
-- Foundation for budgeting and forecasting
-
+  - Aid in benchmarking against industry peers and previous periods
+  - Foundation for budgeting and forecasting
+ 
 + **Role of Reports**
-- Align financial planning with strategic goals
-- Instill confidence in the organization's financial outlook
+  - Align financial planning with strategic goals
+  - Instill confidence in the organization's financial outlook
 
 
 

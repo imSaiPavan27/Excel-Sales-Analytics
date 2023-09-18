@@ -5,11 +5,11 @@
 - **Project objective:** 
 
     **1.** Create a [Customer performance report](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Customer%20Performance%20Report.pdf)
-
+  
     **2.** Conduct a comprehensive comparison between [Market Performance vs Target](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Market%20Performance%20vs%20Target.pdf)
    
-    **Additional**
-
+    -**Additional**
+   - __ Comparision of the [Divison Level Report](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Division%20Level%20Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 

@@ -66,7 +66,7 @@ Analyzing financial data is of paramount importance due to its far-reaching impa
 ## Role of Reports in Finance Analytics
 Reports generated through finance analytics play a pivotal role in steering organizations toward success:
 
-- **Align Financial Planning with Strategic
+- Align Financial Planning with Strategic
 
 
 

@@ -44,7 +44,8 @@ Reports generated through sales analytics serve as indispensable assets to busin
 
      **3.** Create Profit and Loss (P&L) reports by [Quarters](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/P%26L_Reports/P%26L%20Statement%20By%20Quarters-%20Sub_Zone.pdf) W.r.t subzone in Gross Margin % Criteria
 
-### NOTE : A **fiscal year** is used in government accounting, which differs by country, as well as budgeting. Businesses and other organizations also utilize it for financial reporting.
+#### NOTE : 
+A **fiscal year** is used in government accounting, which differs by country, as well as budgeting. Businesses and other organizations also utilize it for financial reporting.
 
 ## Finance Analytics Overview
 

@@ -44,6 +44,7 @@ Reports generated through sales analytics serve as indispensable assets to busin
 
      **3.** Create Profit and Loss (P&L) reports by [Quarters](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/P%26L_Reports/P%26L%20Statement%20By%20Quarters-%20Sub_Zone.pdf) W.r.t subzone in Gross Margin % Criteria
 
+### NOTE : A **fiscal year** is used in government accounting, which differs by country, as well as budgeting. Businesses and other organizations also utilize it for financial reporting.
 
 ## Finance Analytics Overview
 
@@ -76,25 +77,25 @@ Reports generated through finance analytics play a pivotal role in steering orga
 
 ## Technical Skills
 
-[x] **ETL Methodology (Extract, Transform, Load):** Demonstrated ability to efficiently extract, transform, and load data to ensure data quality and availability for analysis.
+- [x] **ETL Methodology (Extract, Transform, Load):** Demonstrated ability to efficiently extract, transform, and load data to ensure data quality and availability for analysis.
 
-[x]  **Power Query:** Skill in generating date tables and performing data transformations using Power Query, a vital tool for data preparation.
+- [x]  **Power Query:** Skill in generating date tables and performing data transformations using Power Query, a vital tool for data preparation.
 
-[x] **Fiscal Months and Quarters:** Capability to derive fiscal months and quarters to align data analysis with financial reporting requirements.
+- [x] **Fiscal Months and Quarters:** Capability to derive fiscal months and quarters to align data analysis with financial reporting requirements.
 
-[x]  **Data Model Relationships (Power Pivot):** Expertise in establishing robust data model relationships using tools like Power Pivot to enable comprehensive data analysis.
+- [x] **Data Model Relationships (Power Pivot):** Expertise in establishing robust data model relationships using tools like Power Pivot to enable comprehensive data analysis.
 
-[x]  **Data Integration:** Proficiency in seamlessly incorporating supplementary data into an existing data model, enhancing the depth and breadth of analysis.
+- [x]  **Data Integration:** Proficiency in seamlessly incorporating supplementary data into an existing data model, enhancing the depth and breadth of analysis.
 
-[x]  **DAX (Data Analysis Expressions):** Proficient use of DAX to create calculated columns, enabling complex calculations and insights in data analysis.
+- [x] **DAX (Data Analysis Expressions):** Proficient use of DAX to create calculated columns, enabling complex calculations and insights in data analysis.
 
 ## Soft Skills
 
-[x]  **Sales & Finance Report Understanding:** A refined understanding of sales and finance reports, ensuring that data analysis aligns with the specific needs and goals of these domains.
+- [x] **Sales & Finance Report Understanding:** A refined understanding of sales and finance reports, ensuring that data analysis aligns with the specific needs and goals of these domains.
 
-[x]  **User-Centric Report Design:** The ability to design user-centric reports with empathy in mind, ensuring that data insights are presented in a clear and actionable manner.
+- [x] **User-Centric Report Design:** The ability to design user-centric reports with empathy in mind, ensuring that data insights are presented in a clear and actionable manner.
 
-[x]  **Optimization:** Meticulous fine-tuning skills to optimize report generation processes, enhancing efficiency and reducing resource consumption.
+- [x] **Optimization:** Meticulous fine-tuning skills to optimize report generation processes, enhancing efficiency and reducing resource consumption.
 
-[x]  **Systematic Approach:** Development of a systematic approach to devising a report-building plan, ensuring that data analysis efforts are organized and yield meaningful results.
+- [x]  **Systematic Approach:** Development of a systematic approach to devising a report-building plan, ensuring that data analysis efforts are organized and yield meaningful results.
 

@@ -15,7 +15,7 @@
    + Discovering the [Top & Bottom 5 Products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%20%26%20Bottom%205%20Products.pdf) in terms of quantity sold
    + Detecting the [Top 10 products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%2010%20Products.pdf) based on the percentage increase in their net sales from 2020 to 2021
 
-
+# Finance Analytics Overview
 
 ## Purpose of Sales Analytics
 Sales analytics is a powerful tool for businesses, enabling them to proactively monitor and assess their sales activities and overall performance. It empowers organizations to gain deeper insights into their sales processes, customer behaviors, and market dynamics, ultimately driving informed decision-making.
@@ -67,6 +67,8 @@ Analyzing financial data is of paramount importance due to its far-reaching impa
 Reports generated through finance analytics play a pivotal role in steering organizations toward success:
 
 - Align Financial Planning with Strategic
+- Instill confidence in the organization's financial outlook.
+
 
 
 

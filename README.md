@@ -15,15 +15,15 @@
    + Discovering the [Top & Bottom 5 Products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%20%26%20Bottom%205%20Products.pdf) in terms of quantity sold
    + Detecting the [Top 10 products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%2010%20Products.pdf) based on the percentage increase in their net sales from 2020 to 2021
 
-# Finance Analytics Overview
+## Sales Analytics Overview
 
-## Purpose of Sales Analytics
+### Purpose of Sales Analytics
 Sales analytics is a powerful tool for businesses, enabling them to proactively monitor and assess their sales activities and overall performance. It empowers organizations to gain deeper insights into their sales processes, customer behaviors, and market dynamics, ultimately driving informed decision-making.
 
-## Importance of Analyzing Sales Data
+### Importance of Analyzing Sales Data
 Analyzing sales data is of paramount importance as it serves as the cornerstone for data-driven decision-making within businesses. By scrutinizing sales data, organizations can uncover valuable sales patterns and track key performance indicators (KPIs), facilitating the identification of trends, areas for improvement, and opportunities for growth.
 
-## Role of Reports in Sales Analytics
+### Role of Reports in Sales Analytics
 Reports generated through sales analytics serve as indispensable assets to businesses in several ways:
 
 - **Determining Effective Customer Discounts:** Sales reports aid in evaluating customer behavior and preferences, enabling the identification of optimal discount strategies to drive sales.
@@ -45,9 +45,9 @@ Reports generated through sales analytics serve as indispensable assets to busin
      **3.** Create Profit and Loss (P&L) reports by [Quarters](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/P%26L_Reports/P%26L%20Statement%20By%20Quarters-%20Sub_Zone.pdf) W.r.t subzone in Gross Margin % Criteria
 
 
-# Finance Analytics Overview
+## Finance Analytics Overview
 
-## Purpose of Finance Analytics
+### Purpose of Finance Analytics
 Finance analytics serves as a fundamental pillar for organizations, offering multifaceted benefits:
 
 - **Evaluation of Financial Performance:** It empowers organizations to rigorously assess their financial health and performance, providing critical insights into profitability and efficiency.
@@ -56,14 +56,14 @@ Finance analytics serves as a fundamental pillar for organizations, offering mul
 
 - **Facilitate Communication with Stakeholders:** It enhances communication with stakeholders by enabling transparent reporting and clear articulation of financial strategies.
 
-## Importance of Analyzing Financial Data
+### Importance of Analyzing Financial Data
 Analyzing financial data is of paramount importance due to its far-reaching impacts:
 
 - **Aid in Benchmarking:** It facilitates benchmarking against industry peers and previous periods, enabling organizations to gauge their financial standing and identify areas for improvement.
 
 - **Foundation for Budgeting and Forecasting:** Financial data analysis forms the bedrock for accurate budgeting and forecasting, providing the insights necessary for effective resource allocation and planning.
 
-## Role of Reports in Finance Analytics
+### Role of Reports in Finance Analytics
 Reports generated through finance analytics play a pivotal role in steering organizations toward success:
 
 - Align Financial Planning with Strategic

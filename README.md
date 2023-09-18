@@ -11,6 +11,7 @@
     **Additional**
    - Comparison of the [Divison Level Report](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Division%20Level%20Report.pdf)
    - Finding the [New Products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/New%20Products%20-%202021.pdf) which are launched at 2021 only
+   - Estimating the [Top 5 Countries](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%205%20Countries.pdf) in terms of revenue in 2021
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 

@@ -27,11 +27,10 @@
   - Identify sales patterns and track key performance indicators (KPIs).
  
 + **Role of Reports:**
-  - Determine 
-      - effective customer discounts
-      - facilitate negotiations with consumers
-      - and identify potential business expansion opportunities in promising countries.
-
+  - Plays a key role in determining
+      - The effective customer discounts
+      - To facilitate negotiations with consumers
+      - To identify potential business expansion opportunities in promising countries.
   - Instill confidence in the organization's financial outlook
 
 

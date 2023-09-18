@@ -27,6 +27,7 @@
   - Identify sales patterns and track key performance indicators (KPIs).
  
 + **Role of Reports:**
+
   - Plays a key role in determining
       - The effective customer discounts
       - To facilitate negotiations with consumers

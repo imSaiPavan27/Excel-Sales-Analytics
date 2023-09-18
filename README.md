@@ -15,24 +15,14 @@
    + Discovering the [Top & Bottom 5 Products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%20%26%20Bottom%205%20Products.pdf) in terms of quantity sold
    + Detecting the [Top 10 products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%2010%20Products.pdf) based on the percentage increase in their net sales from 2020 to 2021
 
-- **Purpose of Sales Analytics:**
-  - Evaluate financial performance
-  - Support decision-making
-  - Facilitate communication with stakeholders
 
 
-- **Importance of Analyzing Finance Data:**
-  - Aid in benchmarking against industry peers and previous periods
-  - Foundation for budgeting and forecasting
-  - Identify sales patterns and track key performance indicators (KPIs).
- 
-+ **Role of Reports:**
+- **Purpose of Sales Analytics:** Sales analytics empowers businesses to effectively monitor and evaluate their sales activities and overall performance.
 
-  - Plays a key role in determining
-      - The effective customer discounts
-      - To facilitate negotiations with consumers
-      - To identify potential business expansion opportunities in promising countries.
-  - Instill confidence in the organization's financial outlook
+- **Importance of Analysis:** Analyzing sales data plays a critical role in identifying sales patterns and tracking key performance indicators (KPIs), enabling businesses to make informed decisions.
+
+- **Role of Reports:** Reports generated through sales analytics assist in determining effective customer discounts, facilitating negotiations with consumers, and identifying potential business expansion opportunities in promising countries.
+
 
 
 

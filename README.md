@@ -71,7 +71,25 @@ Reports generated through finance analytics play a pivotal role in steering orga
 - Align Financial Planning with Strategic
 - Instill confidence in the organization's financial outlook.
 
-### Followed Steps
+# Key Report Highlights
+
+## From Sales:
+- Net sales to Indian customers experienced remarkable growth, increasing by over 3 times in 2021 compared to 2020, resulting in increased business and product demand.
+- Nova is the top-performing customer in terms of net sales growth from 2020 to 2021, with a 2564.9% increase.
+- The PC division exhibited the highest surge in net sales, recording a 313.70% increase from 2020 to 2021.
+- AQ Smash 2 stands out as the top-performing product in terms of net sales growth, showing a 2489.49% increase from 2020 to 2021.
+- Among all newly launched products, AQ Qwerty is the standout revenue generator, bringing in 22 million.
+
+## From Finance:
+- AtliQ Hardware's gross margin percentage (GM%) has experienced a slight decline over the years, decreasing from 41.4% in 2019 to 37.3% in 2020, and further to 36.4% in 2021.
+- Analysis of monthly sales data reveals fluctuations in AtliQ Hardware's sales throughout the year.
+- Net sales for AtliQ Hardware in 2021 have significantly increased compared to previous years.
+- New Zealand boasts the highest GM% at 48.2%, while Germany records the lowest GM% at 26.2%.
+
+
+
+
+# Followed Steps
 1️⃣**ETL using Power Query**: Data is extracted from several sources, processed into a specific format or model, and then fed into the desired location using Power Query.
 
 2️⃣**Data cleaning and preparation using Power Query**: identifying and correcting data issues to ensure accuracy and suitability for analysis and reporting.

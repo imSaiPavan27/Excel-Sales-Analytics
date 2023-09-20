@@ -73,8 +73,11 @@ Reports generated through finance analytics play a pivotal role in steering orga
 
 ### Followed Steps
 1️⃣ETL using Power Query: Data is extracted from several sources, processed into a specific format or model, and then fed into the desired location using Power Query.
+
 2️⃣Data cleaning and preparation using Power Query: identifying and correcting data issues to ensure accuracy and suitability for analysis and reporting.
+
 3️⃣Data modeling with Power Pivot: Linking many datasets together by connecting them.
+
 4️⃣Using pivot tables to create reports: Quickly and easily summarize and analyze large amounts of data.
 
 

@@ -9,10 +9,15 @@
     **2.** Conduct a comprehensive comparison between [Market Performance vs Target](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Market%20Performance%20vs%20Target.pdf)
    
     **Additional**
+
    + Comparison of the [Divison Level Report](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Division%20Level%20Report.pdf), along with the growth percentage
+
    + Finding the [New Products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/New%20Products%20-%202021.pdf) which are launched at 2021 only
+
    + Estimating the [Top 5 Countries](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%205%20Countries.pdf) in terms of net sales in 2021
+     
    + Discovering the [Top & Bottom 5 Products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%20%26%20Bottom%205%20Products.pdf) in terms of quantity sold
+
    + Detecting the [Top 10 products](https://github.com/imSaiPavan27/Excel-Sales-Analytics/blob/main/Sales_Reports/Top%2010%20Products.pdf) based on the percentage increase in their net sales from 2020 to 2021
 
 ## Sales Analytics Overview
